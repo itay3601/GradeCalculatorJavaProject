@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 07 01:47:19 IDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-51ad-3827-000007020fe8 
+on database directory C:\Users\itaym\IdeaProjects\FinalProjectGradeCalculator\zadb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5a07e868 
+Loaded from file:/C:/Users/itaym/IdeaProjects/FinalProjectGradeCalculator/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=12.0.2+10
+user.dir=C:\Users\itaym\IdeaProjects\FinalProjectGradeCalculator
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
